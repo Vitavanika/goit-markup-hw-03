@@ -184,10 +184,6 @@ h3 {
 
 .features {}
 
-.features-container {
-    padding: 120px 15px;
-}
-
 .features-title {
     display: none;
 }
@@ -220,10 +216,6 @@ h3 {
 /* #region team */
 .team {
     background: #F4F4FD
-}
-
-.team-container {
-    padding: 120px 15px;
 }
 
 .team-title {
@@ -270,10 +262,6 @@ h3 {
 /* #region portfolio */
 
 .portfolio {}
-
-.portfolio-container {
-    padding: 120px 15px;
-}
 
 .portfolio-title {
     font-size: 36px;

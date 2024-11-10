@@ -101,14 +101,14 @@ h3 {
 
 .nav-list {
     display: flex;
-    gap: 24px;
+    gap: 40px;
 }
 
 .nav-item {}
 
 .nav-link {
     display: block;
-    padding: 24px;
+    padding: 24px 0;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -241,6 +241,7 @@ h3 {
 }
 
 .team-list {
+    gap: 24px;
     display: flex;
     justify-content: space-between;
 }
@@ -256,6 +257,7 @@ h3 {
 }
 
 .team-subtitle {
+    margin-bottom: 8px;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
